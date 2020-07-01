@@ -1,6 +1,6 @@
 # cdgo
 
-CDG library for Go (Golang)
+Compact Disc plus Graphics (Karoke file) format library for Go (Golang).
 
 ### Example
 
